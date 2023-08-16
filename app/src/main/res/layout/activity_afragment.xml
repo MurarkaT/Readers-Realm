@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/wrapper"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:layout_marginRight="32dp"
+            android:layout_marginTop="300dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginBottom="10dp"
+            android:text="Show All Literary Writings"
+            android:id="@+id/showAllJobsBtn"
+            android:textColor="@color/white"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="32dp"
+            android:layout_marginLeft="32dp"
+            android:textColor="@color/white"
+            android:text="Write a new piece"
+            android:id="@+id/postJobBtn"
+            android:background="@color/black"
+            />
+    </LinearLayout>
+
+
+
+</FrameLayout>

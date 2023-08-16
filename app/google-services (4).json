@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015732362541",
+    "firebase_url": "https://readersrealm-6cdde-default-rtdb.firebaseio.com",
+    "project_id": "readersrealm-6cdde",
+    "storage_bucket": "readersrealm-6cdde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015732362541:android:7bba15909ac883cdfe07a4",
+        "android_client_info": {
+          "package_name": "com.example.readersrealm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015732362541-a6t0q1nruok85aps58kumu1j4l3ve52c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_U2mdJdIT0JvH8KpAEXNXTIld4K5HkS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015732362541-a6t0q1nruok85aps58kumu1j4l3ve52c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
